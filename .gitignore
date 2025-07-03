@@ -19,3 +19,33 @@
 
 # Go workspace file
 go.work
+
+# Build output
+bin/
+dist/
+
+# Data files - runtime generated storage
+store.txt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
