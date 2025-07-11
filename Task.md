@@ -22,6 +22,7 @@
   - 기존 저장소: https://oss.navercorp.com/kyungsik-seo/dist-kv.git
   - 새 저장소: https://github.com/iamksseo/dist-kv.git
   - 모든 커밋 히스토리 보존하여 이전 완료
+  - dev-raft 브랜치 생성 및 원격 저장소에 푸시
 
 ## 구현 완료 항목 ✅
 
