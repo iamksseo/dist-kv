@@ -18,6 +18,10 @@
 - 2025-07-03: Git 저장소 정리 및 커밋
   - .gitignore 파일 업데이트 (빌드 파일, 데이터 파일, IDE 설정 제외)
   - 전체 구현사항 Git 커밋 완료
+- 2025-07-11: GitHub 퍼블릭 리포지토리 마이그레이션
+  - 기존 저장소: https://oss.navercorp.com/kyungsik-seo/dist-kv.git
+  - 새 저장소: https://github.com/iamksseo/dist-kv.git
+  - 모든 커밋 히스토리 보존하여 이전 완료
 
 ## 구현 완료 항목 ✅
 
